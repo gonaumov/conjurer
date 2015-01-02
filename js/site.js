@@ -22,8 +22,8 @@ function callback(){
 		$("#button").text(_count);
 		if(_count == number_count)
 		{
-			alert("Готово");
-			$(window.document.body).html('<p>Готово</p>');
+			alert("Р“РѕС‚РѕРІРѕ");
+			$(window.document.body).html('<p>Р“РѕС‚РѕРІРѕ</p>');
 		}
 };
 $(function() {
